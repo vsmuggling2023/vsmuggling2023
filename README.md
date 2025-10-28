@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api/top-langs/?username=vsmuggling2023&layout=compact&theme=radical
+![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?vsmuggling2023=TU_USUARIO&show_icons=true&theme=radical)
